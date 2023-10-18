@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059908970292",
+    "project_id": "cuzdan-app-4d5ff",
+    "storage_bucket": "cuzdan-app-4d5ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059908970292:android:3efdf4911caee204162761",
+        "android_client_info": {
+          "package_name": "com.example.cuzdan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059908970292-nnv3sfp2a60009nj3ui2hhlhkgsanc24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2LA9tGLPi3aQTgoU99LZKOa8rv8L9VYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059908970292-nnv3sfp2a60009nj3ui2hhlhkgsanc24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
